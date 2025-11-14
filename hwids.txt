@@ -1,1 +1,8 @@
-a
+# Lista de HWIDs válidas para Meow
+# Formato: una HWID por línea. Se ignoran líneas vacías y las que empiezan por '#'.
+# Añade, comenta o elimina entradas según necesites.
+
+{d2b8c88d-8b26-11eb-9248-806e6f6e6963} # brau
+{b8e251c0-9854-11f0-a18d-806e6f6e6963} # hacha
+{aae356c0-3995-11ee-922f-806e6f6e6963} # alexis
+
